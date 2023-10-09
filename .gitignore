@@ -1,0 +1,7 @@
+*/deno.lock
+.vscode
+3_compilation/simple
+3_compilation/with-lib
+4_FFI/add.o
+4_FFI/libadd.so
+

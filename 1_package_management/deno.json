@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "lodash": "https://esm.sh/lodash@4.17.21",
+    "emoji": "npm:node-emoji@2",
+    "fs": "node:fs"
+  }
+}

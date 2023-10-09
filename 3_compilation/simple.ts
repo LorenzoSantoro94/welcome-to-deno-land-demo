@@ -1,0 +1,1 @@
+console.log("The cursed number is ", 11 * 2);

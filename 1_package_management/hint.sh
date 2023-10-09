@@ -1,0 +1,1 @@
+deno cache example.ts
